@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:text="Faculty"
         android:textSize="24sp"
-        android:id="@+id/textView" />
+        android:id="@+id/textView1" />
 
 
 
@@ -26,53 +26,44 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:marginTop="12dp">
+            android:layout_height="match_parent">
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/cho"
-                android:id="@+id/imageView2" />
+                android:src="@drawable/cho" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Il-hyung Cho \nassociate professor, \ndepartment chair"
-                android:textSize="24sp"
-                android:id="@+id/textView" />
+                android:textSize="24sp" />
 
         </TableRow>
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:marginTop="24dp">
+            android:layout_height="match_parent">
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/cho"
-                android:id="@+id/imageView2" />
+                android:src="@drawable/cho" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Il-hyung Cho \nassociate professor, \ndepartment chair"
-                android:textSize="24sp"
-                android:id="@+id/textView" />
+                android:textSize="24sp" />
 
         </TableRow>
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:marginTop="12dp">
+            android:layout_height="match_parent">
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/cho"
-                android:id="@+id/imageView2" />
+                android:src="@drawable/cho" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Il-hyung Cho \nassociate professor, \ndepartment chair"
-                android:textSize="24sp"
-                android:id="@+id/textView" />
+                android:textSize="24sp" />
 
         </TableRow>
     </TableLayout>
@@ -80,7 +71,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BACK"
-        android:id="@+id/button3" />
+        android:text="BACK" />
 
 </LinearLayout>
