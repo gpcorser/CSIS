@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FacultyActivity"></activity>
+        <activity android:name=".FacultyActivity" />
+        <activity android:name=".CourseGridActivity"></activity>
     </application>
 
 </manifest>
